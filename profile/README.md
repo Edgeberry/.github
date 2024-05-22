@@ -1,3 +1,5 @@
 # The Edgeberry Project
 
+The IoT Edge is one of the most compelling frontiers in information technology; the domain where the digital realm converges with the physical world through interconnected devices equipped with sensors and actuators. This technology empowers data-driven decision making, streamlining of processes, enhanced monitoring capabilities, ... . Connected devices have boundless potentiol to reshape our world in ways limited only by our imagination and available technologies.
+
 The Edgeberry Project is a dynamic and integrated ecosystem that brings together hardware, software and community resources to empower users and developers in the IoT space. With the Raspberry Pi (or compatible device) and Edgeberry Hardware at its core, the Edgeberry platform provides the foundation for building, deploying and managing IoT devices, offering a range of hardware configurations through Edgeberry Hardware Cartridges, software tools like the online device management platform Edgeberry Dashboard and publicly available development resources to support a diverse array of applications and use cases.
