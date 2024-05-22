@@ -11,7 +11,8 @@ Whether you are a weathered engineer making a quick proof-of-concept for an IoT 
 
 ### Hardware
 - [Edgeberry Hardware](https://github.com/Edgeberry/Edgeberry-hardware)
-- [Console & CAN interface Cartridge](https://github.com/Edgeberry/Edgeberry-can-and-console-cartridge)
+- [Console & CAN interface Cartridge](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
+- [Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172)
 ### Device Software
  - [Edgeberry application](https://github.com/Edgeberry/Edgeberry)
  - [Edgeberry user interface](https://github.com/Edgeberry/Edgeberry-UI)
