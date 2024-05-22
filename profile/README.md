@@ -1,3 +1,3 @@
 # The Edgeberry Project
 
-Lorem ipsum edgeberrium iotnum connectus dolores si amet
+The Edgeberry Project is a dynamic and integrated ecosystem that brings together hardware, software and community resources to empower users and developers in the IoT space. With the Raspberry Pi (or compatible device) and Edgeberry Hardware at its core, the Edgeberry platform provides the foundation for building, deploying and managing IoT devices, offering a range of hardware configurations through Edgeberry Hardware Cartridges, software tools like the online device management platform Edgeberry Dashboard and publicly available development resources to support a diverse array of applications and use cases.
