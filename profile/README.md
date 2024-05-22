@@ -1,4 +1,4 @@
-![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner.png?raw=true)
+![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
 
 **Internet of Things** is one of the most compelling frontiers in information technology; the domain where the digital realm converges with the physical world through interconnected devices equipped with sensors and actuators. This technology empowers data-driven decision making, streamlining of processes, enhanced monitoring capabilities, ... . Connected devices have boundless potential to reshape our world in ways limited only by our imagination and available technologies.
 
