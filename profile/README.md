@@ -8,8 +8,8 @@ The Edgeberry Project is build on the beliefs that **collaboration, open innovat
 
 ## Product overview
 <p float="left">
-  <img alt="Edgeberry Hardware components" src="./exploded.png" width="55%"/>
-  <img alt="Edgeberry Hardware components" src="./Screenshot from 2024-05-22 19-25-51.png" width="40%"/>
+  <img alt="Edgeberry Hardware components" src="https://github.com/edgeberry/profile/exploded.png" width="55%"/>
+  <img alt="Edgeberry Hardware components" src="https://github.com/edgeberry/profile/exploded.png/Screenshot from 2024-05-22 19-25-51.png" width="40%"/>
 </p>
 
 Lorem Ipsum some shiny pictures that clarify the shape and scope of the project
