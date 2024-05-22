@@ -9,6 +9,8 @@ The Edgeberry Project is build on the beliefs that **collaboration, open innovat
 
 Whether you are a weathered engineer making a quick proof-of-concept for an IoT solution, or a student of the information technology arts dipping your toes in the shallow part of the connected devices pool. With the Edgeberry project you turn your favorite single-board computer into an IoT Edge device in the blink of a cursor! Leveraging the robust foundation of this trusted, open-source, and widely supported computing system, Edgeberry seamlessly integrates essential IoT functionalities allowing you to fully focus on bringing your IoT idea to life.
 
+<img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" align="right" width="60%"/>
+
 ### Edgeberry Device Hardware
 - [Edgeberry Hardware](https://github.com/Edgeberry/Edgeberry-hardware)
 - [Console & CAN interface Cartridge](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
@@ -19,3 +21,5 @@ Whether you are a weathered engineer making a quick proof-of-concept for an IoT 
 ### Edgeberry Dashboard
  - [Edgeberry backend](https://github.com/Edgeberry/Edgeberry-dashboard)
  - [Edgeberry frontend](https://github.com/Edgeberry/Edgeberry-dashboard-UI)
+
+<br clear="right"/>
