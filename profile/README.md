@@ -7,7 +7,7 @@ The **Edgeberry Project is a dynamic and integrated ecosystem that brings togeth
 The Edgeberry Project is build on the beliefs that **collaboration, open innovation and the sharing of knowledge** are key drivers of collective progress. It is mostly build on the shoulders of open source giants (e.g. Linux, Raspberry Pi, ...) having openness in its roots. The Edgeberry Project aims to democratize the IoT edge and enable individuals and organizations to harness the transformative potential of IoT technology.
 
 ## Product overview
-
+<img align="left" alt="Edgeberry Hardware components" src="exploded.png" width="50%"/>
 Lorem Ipsum some shiny pictures that clarify the shape and scope of the project
 
 ## Application
