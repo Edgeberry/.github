@@ -19,8 +19,8 @@ Whether you are a weathered engineer making a quick proof-of-concept for an IoT 
 - [Console & CAN interface](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
 
 **Documentation & User Guides**
-- [Device Assembly Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf?raw=true)
-- [Hardware Cartridge Design Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf?raw=true)
+- [Device Assembly Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf)
+- [Hardware Cartridge Design Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf)
 ### Edgeberry Device Software
  - [Edgeberry Device Application](https://github.com/Edgeberry/Edgeberry)
  - [Edgeberry Device User Interface](https://github.com/Edgeberry/Edgeberry-UI)
