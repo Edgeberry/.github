@@ -21,6 +21,7 @@ Whether you are a weathered engineer making a quick proof-of-concept for an IoT 
 **Documentation & User Guides**
 - [Device Assembly Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf)
 - [Hardware Cartridge Design Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf)
+- [**KiCad EDA** Hardware Cartridge Template](https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads)
 ### Edgeberry Device Software
  - [Edgeberry Device Application](https://github.com/Edgeberry/Edgeberry)
  - [Edgeberry Device User Interface](https://github.com/Edgeberry/Edgeberry-UI)
