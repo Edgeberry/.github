@@ -13,13 +13,17 @@ Whether you are a weathered engineer making a quick proof-of-concept for an IoT 
 
 ### Edgeberry Device Hardware
 - [Edgeberry Hardware](https://github.com/Edgeberry/Edgeberry-hardware)
-- [Console & CAN interface Cartridge](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
 - [Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172)
+#### Edgeberry Hardware Cartridges
+- [Edgeberry Hardware Cartridge: Console & CAN interface](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
+#### Documentation & User Guides
+- [Device Assembly Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf?raw=true)
+- [Hardware Cartridge Design Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf?raw=true)
 ### Edgeberry Device Software
- - [Edgeberry application](https://github.com/Edgeberry/Edgeberry)
- - [Edgeberry user interface](https://github.com/Edgeberry/Edgeberry-UI)
+ - [Edgeberry Device Application](https://github.com/Edgeberry/Edgeberry)
+ - [Edgeberry Device User Interface](https://github.com/Edgeberry/Edgeberry-UI)
 ### Edgeberry Dashboard
- - [Edgeberry backend](https://github.com/Edgeberry/Edgeberry-dashboard)
- - [Edgeberry frontend](https://github.com/Edgeberry/Edgeberry-dashboard-UI)
+ - [Edgeberry Dashboard Backend](https://github.com/Edgeberry/Edgeberry-dashboard)
+ - [Edgeberry Dashboard Frontend](https://github.com/Edgeberry/Edgeberry-dashboard-UI)
 
 <br clear="right"/>
