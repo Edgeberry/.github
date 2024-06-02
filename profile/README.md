@@ -10,8 +10,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Kickstart your idea with Edgeberry
 
-<div style="display:flex">
-    <div>
+<div style="display:flex; flex-direction:row;">
+    <div style="flex:1">
         <h3>Edgeberry Hardware</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
         <br/>
@@ -31,7 +31,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a></li>
         </ul>
     </div>
-    <div>
+    <div style="flex:1">
         <h3>Edgeberry Software</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
         <br/>
