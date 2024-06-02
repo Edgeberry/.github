@@ -25,7 +25,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
         </ul>
-        <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.
+        <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
         <h4>Documentation & User Guides</h4>
         <ul>        
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a></li>
