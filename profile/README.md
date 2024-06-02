@@ -9,25 +9,40 @@ Whether you are an experienced engineer or new to IoT, Edgeberry turns your favo
 Edgeberry is build on the belief that **collaboration, open innovation and knowledge sharing** are key drivers of collective progress. Rooted in the legacy of open-source giants like Linux and Raspberry Pi, Edgeberry aims to democratize IoT technology and empower individuals and organizations to harness its transformative potential.
 
 ## Kickstart your idea with Edgeberry
-
-<img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" align="right" width="60%"/>
-
-### Edgeberry Device Hardware
-- [Edgeberry Hardware](https://github.com/Edgeberry/Edgeberry-hardware)
-- [Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172)
-
-**Edgeberry Hardware Cartridges**
-- [Console & CAN interface](https://github.com/Edgeberry/Edgeberry-cartridge-console-can)
-
-**Documentation & User Guides**
-- [Device Assembly Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf)
-- [Hardware Cartridge Design Guide](https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf)
-- [**KiCad EDA** Hardware Cartridge Template](https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads)
-### Edgeberry Device Software
- - [Edgeberry Device Application](https://github.com/Edgeberry/Edgeberry)
- - [Edgeberry Device User Interface](https://github.com/Edgeberry/Edgeberry-UI)
-### Edgeberry Dashboard
- - [Edgeberry Dashboard Backend](https://github.com/Edgeberry/Edgeberry-dashboard)
- - [Edgeberry Dashboard Frontend](https://github.com/Edgeberry/Edgeberry-dashboard-UI)
-
-<br clear="right"/>
+<table border="0">
+ <tr>
+    <td>
+        <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
+        <br/>
+        <h3>Edgeberry Device Hardware</h3>
+        <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Hardware</a></li>
+            <li><a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosure</a></li>
+        </ul>
+        <h4>Edgeberry Hardware Cartridges</h4>
+        <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
+        </ul>
+        <h4>Documentation & User Guides</h4>
+        <ul>        
+            <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a><li>
+            <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
+            <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA** Hardware Cartridge Template</a></li>
+        </ul>
+    </td>
+    <td>
+        <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
+        <h3>Edgeberry Software</h3>
+        <h4>Edgeberry Device Software</h4>
+        <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Application</a></li>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-UI">Edgeberry Device User Interface</a></li>
+        </ul>
+        <h4>Edgeberry Dashboard</h4>
+        <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard">Edgeberry Dashboard Backend</a></li>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a></li>
+        </ul>
+    </td>
+ </tr>
+</table>
