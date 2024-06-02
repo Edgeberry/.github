@@ -9,8 +9,8 @@ Whether you are an experienced engineer or new to IoT, Edgeberry turns your favo
 Edgeberry is build on the belief that **collaboration, open innovation and knowledge sharing** are key drivers of collective progress. Rooted in the legacy of open-source giants like Linux and Raspberry Pi, Edgeberry aims to democratize IoT technology and empower individuals and organizations to harness its transformative potential.
 
 ## Kickstart your idea with Edgeberry
-<table border="0" align="top">
- <tr>
+<table style="border: 0">
+ <tr style="vertical-align:top">
     <td>
         <h3>Edgeberry Hardware</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
@@ -28,7 +28,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <ul>        
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a></li>
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
-            <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA** Hardware Cartridge Template</a></li>
+            <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a></li>
         </ul>
     </td>
     <td>
