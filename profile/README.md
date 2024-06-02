@@ -10,8 +10,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Kickstart your idea with Edgeberry
 
-<div style="display:flex; flex-direction:row;">
-    <div style="flex:1">
+<table style="border:0px solid white;">
+ <tr style="border:0px solid white;">
+    <td style="border:0px solid white;" valign="top">
         <h3>Edgeberry Hardware</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
         <br/>
@@ -30,8 +31,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
             <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a></li>
         </ul>
-    </div>
-    <div style="flex:1">
+    </td>
+    <td style="border:0px solid white;" valign="top">
         <h3>Edgeberry Software</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
         <br/>
@@ -45,5 +46,6 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard">Edgeberry Dashboard Backend</a></li>
             <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a></li>
         </ul>
-    </div>
-</div>
+    </td>
+ </tr>
+</table>
