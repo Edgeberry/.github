@@ -12,9 +12,10 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <table border="0">
  <tr>
     <td>
+        <h3>Edgeberry Hardware</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
         <br/>
-        <h3>Edgeberry Device Hardware</h3>
+        <h4>Edgeberry Device Hardware</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Hardware</a></li>
             <li><a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosure</a></li>
@@ -31,8 +32,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
     </td>
     <td>
-        <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
         <h3>Edgeberry Software</h3>
+        <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
+        <br/>
         <h4>Edgeberry Device Software</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Application</a></li>
