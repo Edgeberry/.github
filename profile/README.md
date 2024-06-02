@@ -1,16 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
-
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
 
 **Internet of Things** is one of the most compelling frontiers in information technology; the domain where the digital realm converges with the physical world through interconnected devices designed to experience and interact with their environment. IoT has boundless potential to reshape our world in ways limited only by our imagination and available technologies.
@@ -23,9 +10,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Kickstart your idea with Edgeberry
 
-<table style="border: none;">
- <tr>
-    <td style="border: none !important; vertical-align:top;">
+<table style="border:0px solid white;">
+ <tr style="border:0px solid white;">
+    <td style="border:0px solid white;">
         <h3>Edgeberry Hardware</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
         <br/>
@@ -45,7 +32,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a></li>
         </ul>
     </td>
-    <td style="border: none!important; vertical-align:top;">
+    <td style="border:0px solid white;">
         <h3>Edgeberry Software</h3>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
         <br/>
