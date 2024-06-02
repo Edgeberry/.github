@@ -10,7 +10,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Kickstart your idea with Edgeberry
 
-<table style="border-collapse:collapse: width:100%;">
+<table style="border-collapse:collapse; width:100%;">
  <tr style="border:none;">
     <td valign="top" style="border:none;">
         <h3>Edgeberry Hardware</h3>
