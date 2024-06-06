@@ -23,6 +23,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
         <h4>Edgeberry Hardware Cartridges</h4>
         <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li>
             <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
         </ul>
         <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
