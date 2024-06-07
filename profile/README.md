@@ -30,7 +30,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
         </ul>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
         <h3>Edgeberry Software</h3>
         <p>
             Manages the Edgeberry Base Board's user interface and connects to the Edgeberry Dashboard for comprehensive control and monitoring of each Edgeberry device in the cloud.
@@ -50,7 +50,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
  </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="50%">
         <h3>Edgeberry Hardware Cartridges</h3>
         <p>
             Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
@@ -63,12 +63,14 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
         <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
     </td>
-    <td valign="top">
+    <td valign="top" width="50%">
         <h3>Edgeberry Community</h3>
         <p>
-            A collaborative space space where users, developers and educators come together to share ideas, solve problems and innovate. Join us to help shape the future of IoT!
+            Edgeberry is an open project and a community-driven effort. Join other users, developers and educators, and share ideas, involve in discussions, solve problems or share your innovations. Join us to help shape the future of IoT!
         </p>
-        <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
+        <p>
+            <a href="https://github.com/orgs/Edgeberry/discussions">Join our discussions!</a>
+        </p>
 
  </tr>
 </table>
