@@ -13,20 +13,17 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <table>
  <tr>
     <td valign="top">
-        <h3>Edgeberry Hardware</h3>
-        <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
+        <h3>Edgeberry Base board</h3>
+        <p>
+            The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
+        </p>
+        <img src="https://raw.githubusercontent.com/Edgeberry/Edgeberry-hardware/main/documentation/Edgeberry_rendering.png?raw=true" />
         <br/>
-        <h4>Edgeberry Device Hardware</h4>
+        <h4>Edgeberry Base Board Hardware</h4>
         <ul>
-            <li><a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Hardware</a></li>
-            <li><a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosure</a></li>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a></li>
+            <li><a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosures</a></li>
         </ul>
-        <h4>Edgeberry Hardware Cartridges</h4>
-        <ul>
-            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li>
-            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
-        </ul>
-        <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
         <h4>Documentation & User Guides</h4>
         <ul>        
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a></li>
@@ -35,6 +32,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
     <td valign="top">
         <h3>Edgeberry Software</h3>
+        <p>
+            Manages the Edgeberry Base Board's user interface and connects to the Edgeberry Dashboard for comprehensive control and monitoring of each Edgeberry device in the cloud.
+        </p>
         <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
         <br/>
         <h4>Edgeberry Device Software</h4>
@@ -42,11 +42,33 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Application</a></li>
             <li><a href="https://github.com/Edgeberry/Edgeberry-UI">Edgeberry Device User Interface</a></li>
         </ul>
-        <h4>Edgeberry Dashboard</h4>
+        <h4>Edgeberry Device Management Dashboard</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard">Edgeberry Dashboard Backend</a></li>
             <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a></li>
         </ul>
     </td>
+ </tr>
+  <tr>
+    <td valign="top">
+        <h3>Edgeberry Hardware Cartridges</h3>
+        <p>
+            Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
+        </p>
+        <img src="https://raw.githubusercontent.com/Edgeberry/Edgeberry-cartridge-console-can/main/documentation/Edgeberry_console_CAN_cartridge.png?raw=true" />
+        <h4>Hardware Cartridges</h4>
+        <ul>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
+        </ul>
+        <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
+    </td>
+    <td valign="top">
+        <h3>Edgeberry Community</h3>
+        <p>
+            A collaborative space space where users, developers and educators come together to share ideas, solve problems and innovate. Join us to help shape the future of IoT!
+        </p>
+        <img src="https://github.com/Edgeberry/.github/blob/main/images/device_exploded.png?raw=true" />
+
  </tr>
 </table>
