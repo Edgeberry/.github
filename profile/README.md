@@ -72,7 +72,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <a href="https://github.com/orgs/Edgeberry/discussions">Join our discussions!</a>
         </p>
         <p>
-            Contribute your knowledge to the educational resources to provide the next generation of engineers the materials to grow
+            Contribute your knowledge to the educational resources to provide the next generation of engineers with the materials to explore and grow!
         </p>
         <p>
             <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Educational_resources.md">Educational materials</a>
