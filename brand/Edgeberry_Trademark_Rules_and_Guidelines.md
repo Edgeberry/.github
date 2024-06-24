@@ -1,4 +1,4 @@
-![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_ banner_trademarkguide.png?raw=true)
+![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_trademarkguide.png?raw=true)
 
 We aim to preserve the distinct character of Edgeberry. Ensuring that our name and logo signify authentic Edgeberry products and services is essential. This document provides the rules and guidelines for using our trademarks to uphold the integrity of our brand.
 
