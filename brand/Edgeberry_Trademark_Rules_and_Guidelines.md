@@ -1,4 +1,4 @@
-![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner.png?raw=true)
+![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_ banner_trademarkguide.png?raw=true)
 
 We aim to preserve the distinct character of Edgeberry. Ensuring that our name and logo signify authentic Edgeberry products and services is essential. This document provides the rules and guidelines for using our trademarks to uphold the integrity of our brand.
 
@@ -20,6 +20,5 @@ The **Edgeberry Word Mark** can be freely used as a reference to the Edgeberry e
 The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit written permission_ from Edgeberry. Unauthorized use of the **Edgeberry Logo** or **Edgeberry Logo** in any form is strictly prohibited. The **Edgeberry Symbol** and **Edgeberry Logo** can only be used on official materials by Edgeberry or by licensed manufacturers and distributors of genuine Edgeberry products, ensuring it is clear these materials are officially associated with Edgeberry.
 
 ## Guidelines
-TODO: Guidelines on using the logo for authorized use
 
 ![Edgeberry Logo](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_brand_sheet.png?raw=true)
