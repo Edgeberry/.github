@@ -7,10 +7,12 @@ We have established trademarks and design rights to protect how our brand is use
 1) The word "Edgeberry", which we refer to as the **Edgeberry Word Mark**
 2) Following visual, which we refer to as the **Edgeberry Logo**
 
-![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_logo_128x128.png?raw=true)
+![Edgeberry Logo](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_logo_128x128.png?raw=true)
 
 
-## Allowed use
-ToDo
-## Prohibited use
-ToDo
+## Usage
+The **Edgeberry Word Mark** can be freely used as a reference to the Edgeberry ecosystem or genuine Edgeberry products. When creating products or services related to or reliant on Edgeberry, such as an _Edgeberry Hardware Cartridge_, you must ensure the usage of the **Edgeberry Word Mark** is not suggestive of a genuine Edgeberry product, or an endorsement by Edgeberry.
+
+The **Edgeberry Logo** can not be used _without explicit written permission_ from Edgeberry. Unauthorized use of the **Edgeberry Logo** in any form is strictly prohibited. The **Edgeberry Logo** can only be used on official materials by Edgeberry or by licensed manufacturers and distributers of genuine Edgeberry products, ensuring it is clear these materials are officially associated with Edgeberry.
+
+## Guidelines
