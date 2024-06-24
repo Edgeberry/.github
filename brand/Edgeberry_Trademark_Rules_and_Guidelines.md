@@ -21,3 +21,5 @@ The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit
 
 ## Guidelines
 TODO: Guidelines on using the logo for authorized use
+
+![Edgeberry Logo](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_brand_sheet.png?raw=true)
