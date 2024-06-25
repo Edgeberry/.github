@@ -83,4 +83,4 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <hr/>
 
 (1) Raspberry Pi™ is a reference to the products of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).<br/>
-(2) Edgeberry™ is an Open-Source project, however, for using the Edgeberry brand, the [Edgeberry Trademark Rules & Guidelines apply](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_Trademark_Rules_and_Guidelines.md).
+(2) Edgeberry™ is an Open-Source project. However, for using the Edgeberry brand, the [Edgeberry Trademark Rules & Guidelines apply](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_Trademark_Rules_and_Guidelines.md).
