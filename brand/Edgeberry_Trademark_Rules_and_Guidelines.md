@@ -20,6 +20,7 @@ The **Edgeberry Word Mark** can be freely used as a reference to the Edgeberry e
 The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit written permission_ from Edgeberry. Unauthorized use of the **Edgeberry Symbol** or **Edgeberry Logo** in any form is strictly prohibited. The **Edgeberry Symbol** and **Edgeberry Logo** can only be used on official materials by Edgeberry or by licensed manufacturers and distributors of genuine Edgeberry products, ensuring it is clear these materials are officially associated with Edgeberry.
 
 ## Guidelines
-When you have obtained explicit written permission from Edgeberry for using the Edgeberry logo and brand, this brand sheet should give you some guidance on the usage.
+When you have obtained explicit written permission from Edgeberry for using the Edgeberry logo and brand, this brand sheet should give you some guidance on the usage.<br/>
 ![Edgeberry Design guideline](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_brand_sheet.png?raw=true)
+<br/>
 You can find the **Edgeberry Symbol** and the **Edgeberry Logo** in this repository. Whenever possible, use the **Edgeberry Symbol** or **Edgeberry Logo** in the "Electric blue" color, on a "Carbon" background. When diverging from these guidelines, please consult with Edgeberry.
