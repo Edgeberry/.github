@@ -79,3 +79,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </p>
  </tr>
 </table>
+<br/>
+<hr/>
+
+(1) Raspberry Pi™ is a reference to the products and values of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).
