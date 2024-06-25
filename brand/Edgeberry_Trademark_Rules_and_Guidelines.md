@@ -17,7 +17,7 @@ We have established trademarks and design rights to protect how our brand is use
 ## Usage
 The **Edgeberry Word Mark** can be freely used as a reference to the Edgeberry ecosystem or genuine Edgeberry products. When creating products or services related to or reliant on Edgeberry, such as an _Edgeberry Hardware Cartridge_, you must ensure the usage of the **Edgeberry Word Mark** is not suggestive of a genuine Edgeberry product, or an endorsement by Edgeberry.
 
-The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit written permission_ from Edgeberry. Unauthorized use of the **Edgeberry Logo** or **Edgeberry Logo** in any form is strictly prohibited. The **Edgeberry Symbol** and **Edgeberry Logo** can only be used on official materials by Edgeberry or by licensed manufacturers and distributors of genuine Edgeberry products, ensuring it is clear these materials are officially associated with Edgeberry.
+The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit written permission_ from Edgeberry. Unauthorized use of the **Edgeberry Symbol** or **Edgeberry Logo** in any form is strictly prohibited. The **Edgeberry Symbol** and **Edgeberry Logo** can only be used on official materials by Edgeberry or by licensed manufacturers and distributors of genuine Edgeberry products, ensuring it is clear these materials are officially associated with Edgeberry.
 
 ## Guidelines
 When you have obtained explicit written permission from Edgeberry for using the Edgeberry logo and brand, this brand sheet should give you some guidance on the usage.
