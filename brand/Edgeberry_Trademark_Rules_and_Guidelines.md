@@ -1,10 +1,10 @@
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_trademarkguide.png?raw=true)
 
-We aim to preserve the distinct character of Edgeberry. Ensuring that our name and logo signify authentic Edgeberry products and services is essential. This document provides the rules and guidelines for using our trademarks to uphold the integrity of our brand.
+We aim to preserve the distinct character of Edgeberry. Ensuring that our name and logo signify authentic Edgeberry products and services is essential, as well as adherance to the Edgeberry ethos. This document provides the rules and guidelines for using our trademarks to uphold the integrity of our brand.
 
 ## Edgeberry Ethos
 <img src="https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_ethos.png?raw=true" align="left" width="32%" />
-Edgeberry ethos
+TODO: Edgeberry ethos manifesto
 <br clear="left"/>
 
 ## Definitions
