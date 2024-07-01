@@ -17,7 +17,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <p>
             The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
         </p>
-        <img src="https://raw.githubusercontent.com/Edgeberry/Edgeberry-hardware/main/documentation/Edgeberry_rendering.png?raw=true" />
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Base_Board.png" />
         <br/>
         <h4>Edgeberry Base Board Hardware</h4>
         <ul>
@@ -35,7 +35,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <p>
             Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
         </p>
-        <img src="https://raw.githubusercontent.com/Edgeberry/Edgeberry-cartridge-console-can/main/documentation/Edgeberry_console_CAN_cartridge.png?raw=true" />
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Hardware_Cartridge.png" />
         <h4>Hardware Cartridges</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li>
@@ -48,7 +48,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <p>
             Manages the Edgeberry Base Board's user interface and connects to the Edgeberry Dashboard for comprehensive control and monitoring of each Edgeberry device in the cloud.
         </p>
-        <img src="https://github.com/Edgeberry/.github/blob/main/images/dashboard.png?raw=true" />
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" />
         <br/>
         <h4>Edgeberry Device Software</h4>
         <ul>
