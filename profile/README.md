@@ -11,8 +11,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 ## Kickstart your idea with Edgeberry
 
 <table style="border-color: white; padding: 2px;">
- <tr>
-    <td valign="top" width="33%">
+ <tr style="border-color: white; padding: 2px;">
+    <td valign="top" width="33%" style="border-color: white; padding: 2px;">
         <h3>Edgeberry Base board</h3>
         <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Base_Board.png" />
         <p>
@@ -29,7 +29,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
         </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border-color: white; padding: 2px;">
         <h3>Hardware Cartridges</h3>
         <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Hardware_Cartridge.png" />
         <p>
@@ -42,7 +42,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
         <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top" width="33%" style="border-color: white; padding: 2px;">
         <h3>Edgeberry Software</h3>
         <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" />
         <p>
