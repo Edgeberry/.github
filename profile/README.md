@@ -10,7 +10,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Kickstart your idea with Edgeberry
 
-<table>
+<table style="border-color: white; padding: 2px;">
  <tr>
     <td valign="top" width="33%">
         <h3>Edgeberry Base board</h3>
