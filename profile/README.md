@@ -13,12 +13,11 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <table>
  <tr>
     <td valign="top" width="33%">
-        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Base_Board.png" />
         <h3>Edgeberry Base board</h3>
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Base_Board.png" />
         <p>
             The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
         </p>
-        <br/>
         <h4>Edgeberry Base Board Hardware</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a></li>
@@ -31,8 +30,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
     </td>
     <td valign="top" width="33%">
-        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Hardware_Cartridge.png" />
         <h3>Hardware Cartridges</h3>
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Hardware_Cartridge.png" />
         <p>
             Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
         </p>
@@ -44,12 +43,11 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
     </td>
     <td valign="top" width="33%">
-        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" />
         <h3>Edgeberry Software</h3>
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" />
         <p>
             Manages the Edgeberry Base Board's user interface and connects to the Edgeberry Dashboard for comprehensive control and monitoring of each Edgeberry device in the cloud.
         </p>
-        <br/>
         <h4>Edgeberry Device Software</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a></li>
