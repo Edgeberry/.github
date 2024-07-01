@@ -12,7 +12,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 <table>
  <tr>
-    <td valign="top">
+    <td valign="top" width="33%">
         <h3>Edgeberry Base board</h3>
         <p>
             The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
@@ -30,7 +30,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a></li>
         </ul>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
         <h3>Edgeberry Software</h3>
         <p>
             Manages the Edgeberry Base Board's user interface and connects to the Edgeberry Dashboard for comprehensive control and monitoring of each Edgeberry device in the cloud.
@@ -48,9 +48,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
             <li><a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a></li>
         </ul>
     </td>
- </tr>
-  <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
         <h3>Edgeberry Hardware Cartridges</h3>
         <p>
             Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
@@ -63,7 +61,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </ul>
         <p>Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.</p>
     </td>
-    <td valign="top" width="50%">
+ </tr>
+</table>
+<br/>
         <h3>Edgeberry Community</h3>
         <p>
             Edgeberry is an open project and a community-driven effort. Join other users, developers and educators, and share ideas, involve in discussions, solve problems or share your innovations. Join us to help shape the future of IoT!
@@ -77,9 +77,6 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <p>
             <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Educational_resources.md">Educational materials</a>
         </p>
- </tr>
-</table>
-<br/>
 <hr/>
 
 (1) Raspberry Pi™ is a reference to the products of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).<br/>
