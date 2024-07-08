@@ -4,7 +4,7 @@
 
 Whether you are an experienced engineer or new to IoT, Edgeberry turns your favorite single-board computer into an IoT device in the blink of a cursor. With essential IoT functionalities, it allows you to **fully focus on your innovative ideas**. Perfect for exploring concepts and developing solutions quickly, Edgeberry's design supports real-world testing, rapid adaptation and iterative development, turning your vision into reality.
 
-**The Edgeberry Project is a dynamic and integrated ecosystem that unites hardware, software and community resources** to empower IoT  users and developers. With Raspberry Pi at its core, Edgeberry provides the foundation for building, deploying and managing IoT devices. It offers diverse hardware configurations with **Edgeberry Hardware Cartridges** and online device management with **Edgeberry Dashboard**.
+**The Edgeberry Project is a dynamic and integrated ecosystem that unites hardware, software and community resources** to empower IoT  users and developers. With Raspberry Pi at its core, Edgeberry provides the foundation for building, deploying and managing IoT devices. It offers diverse hardware configurations with **Edgeberry Hardware Cartridges** and online device management with the **Edgeberry Dashboard**.
 
 Edgeberry is build on the belief that **collaboration, open innovation and knowledge sharing** are key drivers of collective progress. Rooted in the legacy of open-source giants like Linux and Raspberry Pi, Edgeberry aims to democratize IoT technology and empower individuals and organizations to harness its transformative potential.
 
