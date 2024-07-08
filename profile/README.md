@@ -13,7 +13,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <table>
  <tr>
     <td valign="top" width="33%">
-        <h3>Edgeberry Base board</h3>
+        <h3>Edgeberry Base Board</h3>
         <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Base_Board.png" />
         <p>
             The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
