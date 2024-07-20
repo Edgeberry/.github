@@ -2,11 +2,6 @@
 
 We aim to preserve the distinct character of Edgeberry. Ensuring that our name and logo signify authentic Edgeberry products and services is essential, as well as adherance to the Edgeberry ethos. This document provides the rules and guidelines for using our trademarks to uphold the integrity of our brand.
 
-## Edgeberry Ethos
-<img src="https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_ethos.png?raw=true" align="left" width="32%" />
-TODO: Edgeberry ethos manifesto
-<br clear="left"/>
-
 ## Definitions
 We have established trademarks and design rights to protect how our brand is used in commerce by third parties. These trademarks include but are not limited to:
 1) The word "Edgeberry", which we refer to as the **Edgeberry Word Mark**
