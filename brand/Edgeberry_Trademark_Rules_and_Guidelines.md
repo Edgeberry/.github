@@ -23,4 +23,4 @@ The **Edgeberry Symbol** or **Edgeberry Logo** can not be used _without explicit
 When you have obtained explicit written permission from Edgeberry for using the Edgeberry logo and brand, this brand sheet should give you some guidance on the usage.<br/><br/>
 ![Edgeberry Design guideline](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_brand_sheet.png?raw=true)
 <br/><br/>
-You can find the **Edgeberry Symbol** and the **Edgeberry Logo** in this repository. Whenever possible, use the **Edgeberry Symbol** or **Edgeberry Logo** in the "Electric blue" color, on a "Carbon" background. When diverging from these guidelines, please consult with Edgeberry.
+You can find the **Edgeberry Symbol** and the **Edgeberry Logo** in this repository. Whenever possible, use the **Edgeberry Symbol** or **Edgeberry Logo** in the "Electric blue" color, on a "Carbon" background. When diverging from these guidelines, please consult with the Edgeberry project owners.
