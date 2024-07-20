@@ -1,6 +1,6 @@
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
 
-**The Edgeberry project expands the Raspberry Pi for use as an IoT edge device**. Edgeberry is an open-source ecosystem that enhances your favorite single-board computer with hardware, software and mechanical integration possibilities, making it easier to explore the connected device aspect your creative solutions. Aimed at lean and fast development and deployment iterations, Edgeberry simplifies the process of bridging the physical world with the digital realm.
+**The Edgeberry project expands the Raspberry Pi for use as an IoT edge device**. Edgeberry is an open-source ecosystem that enhances your favorite single-board computer with hardware, software and mechanical integration possibilities, making it easier to explore the connected device aspect in your creative solutions. Aimed at lean and fast development and deployment iterations, Edgeberry simplifies the process of bridging the physical world with the digital realm.
 
 Edgeberry is build on the belief that **collaboration, open innovation and knowledge sharing** are key drivers of collective progress. Rooted in the legacy of open-source giants like Linux and Raspberry Pi, Edgeberry aims to democratize IoT technology and empower individuals and organizations to harness its transformative potential.
 
