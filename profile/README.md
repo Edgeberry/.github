@@ -58,6 +58,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
  </tr>
 </table>
+ <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 <br/>
         <h3>Edgeberry Community</h3>
         <p>
