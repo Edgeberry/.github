@@ -33,7 +33,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         </p>
         <h4>Hardware Cartridges</h4>
         <ul>
-            <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li>
+            <!--<li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-EDU">EDU Cartridge</a></li> -->
             <li><a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a></li>
             <li><a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a></li>
         </ul>
