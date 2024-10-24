@@ -1,7 +1,8 @@
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
 
+<a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large">
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry_picture.png?raw=true" align="right" width="40%"/>
-
+</a>
 
 **The Edgeberry project expands the Raspberry Pi for use as an IoT edge device**. Edgeberry is an open-source ecosystem that enhances your favorite single-board computer with hardware, software and mechanical integration possibilities, making it easier to explore the connected device aspect in your creative solutions. Aimed at lean and fast development and deployment iterations, Edgeberry simplifies the process of bridging the physical world with the digital realm.
 
