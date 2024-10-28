@@ -1,6 +1,6 @@
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
 
-<a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large">
+<a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" >
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry_picture.png?raw=true" align="right" width="40%"/>
 </a>
 
@@ -64,8 +64,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
  </tr>
 </table>
- <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
- <a href="https://my-tec.be/"><img src="https://github.com/Edgeberry/.github/blob/main/images/button_My-Tec.png?raw=true" alt="My-Tec" width="200" height="104"></a>
+ <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" ><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+ <a href="https://my-tec.be/" target="_blank" ><img src="https://github.com/Edgeberry/.github/blob/main/images/button_My-Tec.png?raw=true" alt="My-Tec" width="200" height="104"></a>
 <br/>
         <h3>Edgeberry Community</h3>
         <p>
