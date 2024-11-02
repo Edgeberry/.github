@@ -64,22 +64,18 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
  </tr>
 </table>
- <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" ><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
- <a href="https://my-tec.be/" target="_blank" ><img src="https://github.com/Edgeberry/.github/blob/main/images/button_My-Tec.png?raw=true" alt="My-Tec" width="200" height="104"></a>
+
+<a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" ><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+<a href="https://my-tec.be/" target="_blank" ><img src="https://github.com/Edgeberry/.github/blob/main/images/button_My-Tec.png?raw=true" alt="My-Tec" width="200" height="104"></a>
 <br/>
-        <h3>Edgeberry Community</h3>
-        <p>
-            Edgeberry is an open project and a community-driven effort. Join other users, developers and educators, and share ideas, involve in discussions, solve problems or share your innovations. Join us to help shape the future of IoT!
-        </p>
-        <p>
-            <a href="https://github.com/orgs/Edgeberry/discussions">Join our discussions!</a>
-        </p>
-        <p>
-            Contribute your knowledge to the educational resources to provide the next generation of engineers with the materials to explore and grow!
-        </p>
-        <p>
-            <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Educational_resources.md">Educational materials</a>
-        </p>
+
+<h3>Edgeberry Community</h3>
+<p>
+    Edgeberry is an open project and a community-driven effort. Join other users, developers and educators, and share ideas, involve in discussions, solve problems or share your innovations. Join us to help shape the future of IoT!
+</p>
+<p>
+    <a href="https://github.com/orgs/Edgeberry/discussions">Join our discussions!</a>
+</p>
 <hr/>
 
 (1) Raspberry Pi™ is a reference to the products of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).<br/>
