@@ -54,7 +54,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
         <h4>Edgeberry Device Software</h4>
         <ul>
             <li><a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a></li>
-            <li><a href="https://github.com/Edgeberry/Edgeberry-UI">Edgeberry Device User Interface</a></li>
+            <li><a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a></li>
         </ul>
         <h4>Edgeberry Device Management Dashboard</h4>
         <ul>
