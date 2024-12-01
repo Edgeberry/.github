@@ -13,13 +13,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="30%"/>
 <p>
-    The Edgeberry device ...
+    Powered by Raspberry Pi™, the <b>Edgeberry Device</b> is a capable Linux computer system designed to be deployed on the edge of the internet, where the physical world interfaces with the digital realm. The <a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a> provides the system with essential functionality. The <a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosures</a> increases the computer system's capability to resist the hardships of the physical word.
 </p>
-<a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a>,
-<a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosures</a>,
-<a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a>,
-<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a>,
-<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
+<a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a>
 <br clear="left"/>
 <br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
@@ -31,7 +27,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 </p>
 <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a>,
 <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>,
-<a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>
+<a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>,
+<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a>,
+<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 <br clear="right"/>
 <br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
