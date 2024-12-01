@@ -19,16 +19,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
 <p>
-    Some text about customizing hardware and writing your application...
+    Edgeberry is designed to facilitate your specific application. With the expansion slot you can customize the hardware with <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">Edgeberry Hardware Cartridges</a> (e.g. <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>, <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>. The Edgeberry platform provides the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for interfacing your software application with the Edgeberry system.
 </p>
-<p>
-    Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.
-</p>
-<a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a>,
-<a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>,
-<a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>,
-<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a>,
-<a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 <br clear="right"/>
 <br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
