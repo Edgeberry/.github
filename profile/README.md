@@ -29,7 +29,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <h3>Always connected</h3>
 <p>
     Device management is an essential part of any IoT solution. With Edgeberry's online <a href="https://github.com/Edgeberry/Edgeberry-dashboard">Device Management Dashboard</a> this aspect is already taken care of, so you can focus entirely on developing the core of your application without worrying about the logistics of managing your devices.
-
+    <br/>
     Edgeberry's official dashboard is at https://dashboard.edgeberry.io.
 </p>
 <br clear="left"/>
