@@ -12,7 +12,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 ## Explore your idea with Edgeberry
 
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="40%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="30%"/>
 <h3>Edgeberry Device</h3>
 <p>
     The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
@@ -24,7 +24,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 <br clear="left"/>
 
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="left" width="40%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="left" width="30%"/>
 <h3>Hardware Cartridges</h3>
 <p>
     Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
@@ -37,13 +37,14 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>
 <br clear="left"/>
 
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="40%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
 <h3>Edgeberry Dashboard</h3>
 <p>
     The online Edgeberry device management Dashboard ...
 </p>
 <a href="https://github.com/Edgeberry/Edgeberry-dashboard">Edgeberry Dashboard Backend</a>,
 <a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a>
+<br clear="left"/>
 
 <h2>A good title</h2>
 
