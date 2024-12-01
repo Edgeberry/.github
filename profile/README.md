@@ -19,7 +19,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
 <p>
-    Edgeberry is designed to facilitate your specific application. With the expansion slot you can customize the hardware with <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">Edgeberry Hardware Cartridges</a> (e.g. <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>, <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>. The Edgeberry platform provides the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for interfacing your software application with the Edgeberry system.
+    Edgeberry is designed to facilitate your specific application. With the expansion slot you can <b>customize the hardware</b> with <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">Edgeberry Hardware Cartridges</a> (e.g. <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>, <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>). The Edgeberry platform provides the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for interfacing your software application with the Edgeberry system.
 </p>
 <br clear="right"/>
 <br/>
