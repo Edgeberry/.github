@@ -10,22 +10,22 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 <br clear="right"/>
 
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="30%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="33%"/>
 <p>
     Powered by Raspberry Pi™, the <b>Edgeberry Device</b> is a capable Linux computer system designed to be deployed on the edge of the internet, where the physical world interfaces with the digital realm. The <a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a> and the <a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a>
  provide the system with essential functionality. The <a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosures</a> increases the computer system's capability to resist the hardships of the physical word.
 </p>
 <br clear="left"/>
 <br/>
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="33%"/>
 <p>
     Edgeberry is designed to facilitate your specific application. With the expansion slot you can <b>customize the hardware</b> with <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">Edgeberry Hardware Cartridges</a> (e.g. <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>, <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>). The Edgeberry platform provides the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for interfacing your software application with the Edgeberry system.
 </p>
 <br clear="right"/>
 <br/>
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="33%"/>
 <p>
-    The online Edgeberry device management Dashboard ...
+    Wherever your devices are deployed, keep track of their state with the online Edgeberry device management Dashboard.
 </p>
 <a href="https://github.com/Edgeberry/Edgeberry-dashboard">Edgeberry Dashboard Backend</a>,
 <a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a>
