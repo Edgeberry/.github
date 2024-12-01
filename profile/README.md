@@ -26,7 +26,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 </p>
 <br clear="right"/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="33%"/>
-<h4>Never lose track</h4>
+<h4>Always connected</h4>
 <p>
     Wherever your devices are deployed, keep track of their state with the online Edgeberry device management Dashboard.
 </p>
@@ -34,7 +34,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/Edgeberry-dashboard-UI">Edgeberry Dashboard Frontend</a>
 <br clear="left"/>
 
-<h2>A good title</h2>
+<h2>Get your Edgeberry device</h2>
 
 <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" ><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 <a href="https://my-tec.be/" target="_blank" ><img src="https://github.com/Edgeberry/.github/blob/main/images/button_My-Tec.png?raw=true" alt="My-Tec" width="200" height="104"></a>
