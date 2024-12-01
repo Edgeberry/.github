@@ -33,7 +33,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     </td>
     <td valign="top" width="33%">
         <h3>Hardware Cartridges</h3>
-        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Hardware_Cartridge.png" />
+        <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" />
         <p>
             Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
         </p>
