@@ -9,13 +9,11 @@
 Edgeberry is build on the belief that **collaboration, open innovation and knowledge sharing** are key drivers of collective progress. Rooted in the legacy of open-source giants like Linux and Raspberry Pi, Edgeberry aims to democratize IoT technology and empower individuals and organizations to harness its transformative potential.
 
 <br clear="right"/>
-
-## Explore your idea with Edgeberry
+<br/>
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="30%"/>
-<h3>Edgeberry Device</h3>
 <p>
-    The foundational hardware platform that connects all physical components of your project, designed to integrate seemlessly with Raspberry Pi, Edgeberry Hardware Cartridges and several Edgeberry Enclosures.
+    The Edgeberry device ...
 </p>
 <a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a>,
 <a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosures</a>,
@@ -23,9 +21,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Device_Assembly_Guide.pdf">Device Assembly Guide</a>,
 <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 <br clear="left"/>
-
+<br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
-<h3>Hardware Cartridges</h3>
 <p>
     Some text about customizing hardware and writing your application...
 </p>
@@ -36,9 +33,8 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>,
 <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>
 <br clear="right"/>
-
+<br/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
-<h3>Edgeberry Dashboard</h3>
 <p>
     The online Edgeberry device management Dashboard ...
 </p>
