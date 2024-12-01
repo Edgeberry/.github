@@ -20,9 +20,9 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 </p>
 <br clear="left"/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="33%"/>
-<h3>Designed to customize</h3>
+<h3>A solid foundation for your application</h3>
 <p>
-    Edgeberry is designed to facilitate your specific application. With the expansion slot you can <b>customize the hardware</b> with <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">Edgeberry Hardware Cartridges</a> (e.g. <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>, <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>). The Edgeberry platform provides the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for interfacing your software application with the Edgeberry system.
+    Edgeberry is built as a foundation for your specific application. Its expansion slot allows hardware customization with Edgeberry Hardware Cartridges, such as the <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a> or the <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>. You can also use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad template</a> and Hardware Cartridge Design Guide to create your own tailored solution. The platform includes the <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a> for seamless software integration.
 </p>
 <br clear="right"/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="33%"/>
