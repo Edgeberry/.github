@@ -10,7 +10,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 <br clear="right"/>
 
-<h2>Put your IoT solution on edge with Edgeberry</h2>
+<h2>Put your IoT idea on edge with Edgeberry</h2>
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="33%"/>
 <h3>A full-blown computer, built for the field</h3>
