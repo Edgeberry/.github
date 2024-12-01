@@ -10,7 +10,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 
 <br clear="right"/>
 
-<h2>The power of Edgeberry</h2>
+<h2>Living on the edge</h2>
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="33%"/>
 <h4>A full-blown computer system</h4>
