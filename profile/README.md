@@ -13,10 +13,10 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <h2>Living on the edge</h2>
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Device.png" align="left" width="33%"/>
-<h3>A full-blown computer system, built for the field</h3>
+<h3>A full-blown computer, built for the field</h3>
 <p>
-    Powered by Raspberry Pi™, the <b>Edgeberry Device</b> is a capable Linux computer system designed to be deployed on the edge of the internet, where the physical world interfaces with the digital realm. The <a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a> and the <a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a>
-    provide the system with essential functionality. The <a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosure</a> increases the computer system's capability to resist the hardships of the physical word.
+    Powered by Raspberry Pi™, the <b>Edgeberry</b> is a rugged Linux computer system designed for deployment on the edge of the internet, where the digital realm meets the physical world. The <a href="https://github.com/Edgeberry/Edgeberry-hardware">Edgeberry Base Board</a> and the <a href="https://github.com/Edgeberry/Edgeberry">Edgeberry Device Software</a>
+    deliver essential functionality, while the durable <a href="https://www.thingiverse.com/thing:6595172">Edgeberry Enclosure</a> ensures the system is protected from environmental challenges.
 </p>
 <br clear="left"/>
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="33%"/>
