@@ -24,10 +24,10 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 <br clear="left"/>
 
-<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="left" width="30%"/>
+<img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Cartridge.png" align="right" width="30%"/>
 <h3>Hardware Cartridges</h3>
 <p>
-    Modular components for tailoring your hardware to the specific needs of your Edgeberry project. These Cartridges expand the capabilities of your system, making it adaptable for a wide range of applications.
+    Some text about customizing hardware and writing your application...
 </p>
 <p>
     Didn't find the Hardware Cartridge you were looking for? Use the <a href="https://gitlab.com/kicad/libraries/kicad-templates/-/tree/master/Projects/Edgeberry_Cartridge?ref_type=heads">KiCad EDA Hardware Cartridge Template</a> to design your own.
@@ -35,7 +35,7 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
 <a href="https://github.com/Edgeberry/Edgeberry-Python-SDK">Edgeberry Python SDK</a>,
 <a href="https://github.com/Edgeberry/Edgeberry-cartridge-console-can">Console & CAN interface</a>,
 <a href="https://github.com/Edgeberry/Edgeberry_SenseAndDrive_Cartridge">Sense'n'Drive Cartridge</a>
-<br clear="left"/>
+<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/Edgeberry/.github/main/profile/images/Edgeberry_Dashboard.png" align="left" width="30%"/>
 <h3>Edgeberry Dashboard</h3>
