@@ -65,7 +65,7 @@ Make sure you have physical access to the button on the front of the device. In 
 
 # Application development
 
-## Developing software directly on the device
+## Directly on the device
 
 Using `Visual Studio Code`, we can remotely develop code on our Edgeberry device using the `Remote-SSH` extension:
 ```
@@ -81,3 +81,6 @@ When the extension is installed, connect to the device
 7) <password>
 ```
 The VSCode server is automatically installed. Now you can develop directly on the device.
+
+## Python application
+TODO: setting up the environment for python, using the Edgeberry Python SDK, ...
