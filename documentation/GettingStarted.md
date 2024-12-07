@@ -39,3 +39,45 @@ When your device has booted, you can now access your Edgeberry device by opening
 ```
 ssh <your username>@<your device IP address>
 ```
+<hr/>
+
+# Edgeberry stuff
+
+## Installing the Edgeberry Software
+Now we have SSH access to our device, we can download and install the Edgeberry Device Software.
+```
+wget -O install.sh https://github.com/Edgeberry/Edgeberry/releases/latest/download/install.sh;
+chmod +x ./install.sh;
+sudo ./install.sh;
+```
+Note: several parts of the installation process may take a while with little to no feedback, just allow the installer to do its thing.
+
+## Linking the device to your Edgeberry Dashboard account
+Create an account and log in on the Edgeberry online device management dashboard
+```
+https://dashboard.edgeberry.io
+```
+On the devices page, click the "add device" button. In the next step your device's serial number will be asked. Get your device's serial number by executing following command on the device.
+```
+edgeberry --hardware-id
+```
+Make sure you have physical access to the button on the front of the device. In the next step you will be asked to press the button on your device to link this to your account. When this was successful, your device is now linked to your online device management dashboard.
+
+# Application development
+
+## Developing software directly on the device
+
+Using `Visual Studio Code`, we can remotely develop code on our Edgeberry device using the `Remote-SSH` extension:
+```
+1) Open VSCode
+2) Navigate to 'Extensions' (Ctrl+Shift+x)
+3) Search and install the 'Remote-SSH' extension
+```
+When the extension is installed, connect to the device
+```
+4) View > Command Palette... (Ctrl+Shift+p)
+5) Remote-SSH: Connect to host...
+6) <user>@<host>
+7) <password>
+```
+The VSCode server is automatically installed. Now you can develop directly on the device.
