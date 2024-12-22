@@ -34,7 +34,10 @@ Edgeberry is build on the belief that **collaboration, open innovation and knowl
     Edgeberry's official dashboard is at https://dashboard.edgeberry.io.
 </p>
 <br clear="left"/>
-
+<h2>Getting started</h2>
+<p>
+    <a href="https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md">Getting started guide</a>
+</p>
 <h3>Edgeberry Community</h3>
 <p>
     Edgeberry is an open project and a community-driven effort. Join other users, developers and educators, and share ideas, involve in discussions, solve problems or share your innovations. Join us to help shape the future of IoT!
