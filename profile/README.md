@@ -1,6 +1,6 @@
 ![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_main.png?raw=true)
 
-<a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" >
+<a href="https://www.elecrow.com/store/Edgeberry" target="_blank" >
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry-Zero_Cartridge.png?raw=true" align="right" width="40%"/>
 </a>
 
@@ -25,12 +25,16 @@ Edgeberry is fully open-source, **build on open-source products** (e.g. Raspberr
 <p>
     <a href="https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md">Getting started guide</a>
 </p>
+<p>
+    <a href="https://reddit.com/r/Edgeberry">Edgeberry community</a>
+</p>
 
 <h2>Edgeberry certifications</h2>
-
+<a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
 <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
-Edgeberry is Powered by Raspberry Pi certified since 2024.
+Edgeberry is Powered by Raspberry Pi certified since November 2024.
 <br clear="left"/>
+</a>
 <hr/>
 
 (1) Raspberry Pi™ is a reference to the products of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).<br/>
