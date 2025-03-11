@@ -11,7 +11,7 @@ unique solutions. Aimed at fast and lean develop-and-deploy iterations, Edgeberr
 physical world with the digital realm.
 
 
-Edgeberry is fully open-source, **build on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** (e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
+Edgeberry is fully open-source, **built on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** (e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
 
 <br clear="right"/>
 
