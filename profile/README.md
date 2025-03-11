@@ -28,7 +28,9 @@ Edgeberry is fully open-source, **build on open-source products** (e.g. Raspberr
 
 <h2>Edgeberry certifications</h2>
 
-Powered by Raspberry
+<img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="right" width="15%"/>
+Edgeberry is Powered by Raspberry Pi certified since 2024.
+<br clear="right"/>
 <hr/>
 
 (1) Raspberry Pi™ is a reference to the products of the [Raspberry Pi Foundation](https://www.raspberrypi.org/).<br/>
