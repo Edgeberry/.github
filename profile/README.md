@@ -29,7 +29,7 @@ Edgeberry is fully open-source, **build on open-source products** (e.g. Raspberr
     <a href="https://reddit.com/r/Edgeberry">Edgeberry community</a>
 </p>
 
-<h2>Edgeberry certifications</h2>
+<h2>Certifications</h2>
 <a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
     <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
 </a>
