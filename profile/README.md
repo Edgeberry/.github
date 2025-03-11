@@ -10,16 +10,15 @@ features for optimizing its usability as an IoT device - making it easier to exp
 unique solutions. Aimed at fast and lean develop-and-deploy iterations, Edgeberry simplifies the process of bridging the 
 physical world with the digital realm.
 
+- **Raspberry Pi carrier board** and **Enclosure**
+- Edgeberry **Hardware Cartridges**
+- Online **device management dashboard**
 
-Edgeberry is fully open-source, **built on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** (e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
+Edgeberry is fully open-source, **built on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** 
+(e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
+
 
 <br clear="right"/>
-
-<h2>Edgeberry Ecosystem</h2>
-- Raspberry Pi carrier board
-- Enclosure
-- Hardware Cartridges
-- Online device management dashboard
 
 <h2>Getting started</h2>
 <p>
