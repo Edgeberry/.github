@@ -17,9 +17,7 @@ physical world with the digital realm.
 Edgeberry is fully open-source, **built on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** 
 (e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
 
-
 <br clear="right"/>
-
 <h2>Getting started</h2>
 <p>
     <a href="https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md">Getting started guide</a>
