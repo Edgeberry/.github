@@ -1,4 +1,4 @@
-![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_EverythingIsConnected.png?raw=true)
+![Edgeberry Banner](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_banner_main.png?raw=true)
 
 <a href="https://www.tindie.com/stores/spuq/?ref=offsite_badges&utm_source=sellers_SpuQ&utm_medium=badges&utm_campaign=badge_large" target="_blank" >
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry-Zero_Cartridge.png?raw=true" align="right" width="40%"/>
