@@ -4,7 +4,11 @@
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry-Zero_Cartridge.png?raw=true" align="right" width="40%"/>
 </a>
 
-**The Edgeberry project optimizes the Raspberry Pi for use as an IoT edge device**. Edgeberry is an open-source ecosystem that enhances your favorite single-board computer with hardware, software and mechanical integration possibilities, making it easier to explore the connected device component in your creative solutions. Aimed at fast and lean develop-and-deploy iterations, Edgeberry simplifies the process of bridging the physical world with the digital realm in your IoT solution.
+**The Edgeberry project adapts the Raspberry Pi for the challenges of the IoT edge**. 
+Edgeberry is an open-source ecosystem that enhances your favorite single-board computer with hardware, software and mechanical 
+features for optimizing its usability as an IoT device - making it easier to explore the connected device component in your 
+unique solutions. Aimed at fast and lean develop-and-deploy iterations, Edgeberry simplifies the process of bridging the 
+physical world with the digital realm.
 
 
 Edgeberry is fully open-source, **build on open-source products** (e.g. Raspberry Pi, GNU/Linux) and **designed with open-source tools** (e.g. KiCad EDA, FreeCAD), embodying the open-source ethos of freedom and democratizing the transformative potential of IoT technology.
