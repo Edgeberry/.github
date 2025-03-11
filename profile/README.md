@@ -2,6 +2,8 @@
 
 <a href="https://www.elecrow.com/store/Edgeberry" target="_blank" >
 <img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry-Zero_Cartridge.png?raw=true" align="right" width="40%"/>
+<img src="https://github.com/Edgeberry/.github/blob/main/images/Edgeberry-Zero_Cartridge.png?raw=true" align="right" width="40%"/>
+
 </a>
 
 **The Edgeberry project adapts the Raspberry Pi for the challenges of the IoT edge**. 
