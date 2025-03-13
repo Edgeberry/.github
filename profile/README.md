@@ -41,7 +41,7 @@ Edgeberry is **Powered by Raspberry Pi** certified since November 2024.
     <img src="https://github.com/Edgeberry/.github/blob/main/brand/elecrowpartner.png?raw=true" align="left" width="20%"/>
 </a>
 
-**Elecrow** manufactures and distributes the hardware components of the Edgeberry project
+**Elecrow** manufactures and distributes the hardware components of the Edgeberry project.
 <br clear="left"/>
 <hr/>
 
