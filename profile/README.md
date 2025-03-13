@@ -18,9 +18,13 @@ physical world with the digital realm.
 Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi and GNU/Linux and designed with open tools such as KiCad EDA and FreeCAD, embodying the ethos of freedom and democratizing IoT technology.
 
 <br clear="right"/>
-<h2>Getting started</h2>
+<h2>Getting Started</h2>
 <p>
-    <a href="https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md">Getting started guide</a>
+    <a href="https://github.com/Edgeberry/.github/blob/main/documentation/GettingStarted.md">Getting Started Guide</a>
+</p>
+
+<p>
+    <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 </p>
 <p>
     <a href="https://reddit.com/r/Edgeberry">Edgeberry community</a>
