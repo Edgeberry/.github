@@ -13,7 +13,7 @@ physical world with the digital realm.
 - The **Baseboard** is the hardware component that connects all Edgeberry's components to the Raspberry Pi, providing it with a robust power supply, status indicators and a unique identifier for cloud connectivity.
 - The **Enclosure** shields the system from real-world environmental challenges.
 - The **Hardware Cartridges** are the application-specific hardware modules, with a design template available in KiCad EDA.
-- The **Dashboard** is an online Device Management Dashboard for remotely managing your Edgeberry-based devices.
+- The **Dashboard** is an online Device Management tool for remotely managing your Edgeberry-based devices.
 
 Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi and GNU/Linux and designed with open tools such as KiCad EDA and FreeCAD, embodying the ethos of freedom and democratizing IoT technology.
 
