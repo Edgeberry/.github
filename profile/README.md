@@ -10,7 +10,8 @@ features for optimizing its usability as an IoT device - making it easier to exp
 unique solutions. Aimed at fast and lean develop-and-deploy iterations, Edgeberry simplifies the process of bridging the 
 physical world with the digital realm.
 
-- The **Baseboard** is the hardware component connecting all Edgeberry's components to the Raspberry Pi.
+- The **Baseboard** is the hardware component that connects all Edgeberry's components to the Raspberry Pi. It has a robust power supply, status indicators and a unique identifier for cloud connectivity.
+- The **Enclosure** protects the system from the environmental challenges of the real world.
 - The **Hardware Cartridges** are the application-specific hardware modules, with a design template available in KiCad EDA.
 - The **Dashboard** is an online Device Management Dashboard for remotely managing your Edgeberry-based devices.
 
