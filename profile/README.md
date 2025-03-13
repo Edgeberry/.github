@@ -30,12 +30,18 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
     <a href="https://reddit.com/r/Edgeberry">Edgeberry Community</a>
 </p>
 
-<h2>Certifications</h2>
+<h2>Certifications & Partners</h2>
 <a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
     <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
 </a>
 
 Edgeberry is **Powered by Raspberry Pi** certified since November 2024.
+<br clear="left"/>
+<a href="https://www.elecrow.com/catalogsearch/result/?q=edgeberry" target="_blank" >
+    <img src="https://github.com/Edgeberry/.github/blob/main/brand/elecrowpartner.png?raw=true" align="left" width="20%"/>
+</a>
+
+**Elecrow** manufactures and distributes the hardware components of the Edgeberry project
 <br clear="left"/>
 <hr/>
 
