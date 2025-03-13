@@ -27,7 +27,7 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
     <a href="https://github.com/Edgeberry/.github/blob/main/documentation/Hardware_Cartridge_Design_Guide.pdf">Hardware Cartridge Design Guide</a>
 </p>
 <p>
-    <a href="https://reddit.com/r/Edgeberry">Edgeberry community</a>
+    <a href="https://reddit.com/r/Edgeberry">Edgeberry Community</a>
 </p>
 
 <h2>Certifications</h2>
