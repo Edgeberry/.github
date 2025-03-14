@@ -37,7 +37,7 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
 
 Edgeberry is **Powered by Raspberry Pi** certified since November 2024.
 <br clear="left"/>
-<a href="" target="_blank" >
+<a href="https://certification.oshwa.org/be000020.html" target="_blank" >
     <img src="https://github.com/oshwa/certification-mark/blob/master/sources/oshw-certification-mark-logo-v2.6.png?raw=true" align="left" width="20%"/>
 </a>
 
