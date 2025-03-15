@@ -1,18 +1,18 @@
 # Getting started
 ## Device Assembly
-After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry](https://www.thingiverse.com/thing:6595172) enclosure, you're ready to assemble your device.
+After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172), you're ready to assemble your device.
 
 <p float="left">
-  <img src="../images/Edgeberry_assembly_1.png" width="30%" />
-  <img src="../images/Edgeberry_assembly_2.png" width="30%" />
-  <img src="../images/Edgeberry_assembly_3.png" width="30%" />
+  <img src="../images/Edgeberry_assembly_1.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_2.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_3.png" width="25%" />
 </p>
 <p float="left">
 </p>
 <p float="left">
-  <img src="../images/Edgeberry_assembly_4.png" width="30%" />
-  <img src="../images/Edgeberry_assembly_5.png" width="30%" />
-  <img src="../images/Edgeberry_assembly_6.png" width="30%" />
+  <img src="../images/Edgeberry_assembly_4.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_5.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_6.png" width="25%" />
 </p>
 
 ## Raspberry Pi SD-card
