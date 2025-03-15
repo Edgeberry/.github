@@ -16,7 +16,7 @@ After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure
 </p>
 
 ## Raspberry Pi SD-card
-We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the Raspberry Pi Imager tool for writing the image to the SD-card.
+We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the `Raspberry Pi Imager` tool for writing the image to the SD-card.
 
 ```
 1) Download the most recent Raspberry Pi OS Lite image from Raspberry Pi's website
