@@ -1,22 +1,22 @@
 # Getting started
 ## Device Assembly
-After acquiring (or milling and soldering) the Edgeberry Hardware, and 3D printing the Edgeberry enclosure, you're ready to assemble your device.
+After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172), you're ready to assemble your device.
 
 <p float="left">
-  <img src="../images/Edgeberry_assembly_1.png" width="32%" />
-  <img src="../images/Edgeberry_assembly_2.png" width="32%" />
-  <img src="../images/Edgeberry_assembly_3.png" width="32%" />
+  <img src="../images/Edgeberry_assembly_1.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_2.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_3.png" width="25%" />
 </p>
 <p float="left">
 </p>
 <p float="left">
-  <img src="../images/Edgeberry_assembly_4.png" width="32%" />
-  <img src="../images/Edgeberry_assembly_5.png" width="32%" />
-  <img src="../images/Edgeberry_assembly_6.png" width="32%" />
+  <img src="../images/Edgeberry_assembly_4.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_5.png" width="25%" />
+  <img src="../images/Edgeberry_assembly_6.png" width="25%" />
 </p>
 
 ## Raspberry Pi SD-card
-We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the Raspberry Pi Imager tool for writing the image to the SD-card.
+We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the `Raspberry Pi Imager` tool for writing the image to the SD-card.
 
 ```
 1) Download the most recent Raspberry Pi OS Lite image from Raspberry Pi's website
