@@ -47,7 +47,7 @@ Edgeberry is **Open Source Hardware** certified since March 2025.
     <img src="https://github.com/Edgeberry/.github/blob/main/brand/elecrowpartner.png?raw=true" align="left" width="20%"/>
 </a>
 
-**Elecrow** manufactures and distributes the hardware components of the Edgeberry project.
+Edgeberry's open-source hardware components are produced by **Elecrow**, our selected OEM manufacturer since 2024.
 <br clear="left"/>
 <hr/>
 
