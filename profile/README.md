@@ -32,22 +32,19 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
 
 <h2>Certifications & Partners</h2>
 <a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
-    <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="22%"/>
+    <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
 </a>
-
-Edgeberry is **Powered by Raspberry Pi** certified since November 2024.
+Edgeberry is <b>Powered by Raspberry Pi</b> certified since November 2024.
 <br clear="left"/>
 <a href="https://certification.oshwa.org/be000020.html" target="_blank" >
-    <img src="https://github.com/Edgeberry/.github/blob/main/brand/oshw-certification-mark.png?raw=true" align="left" width="22%"/>
+    <img src="https://github.com/Edgeberry/.github/blob/main/brand/oshw-certification-mark.png?raw=true" align="left" width="20%"/>
 </a>
-
-Edgeberry is **Open Source Hardware** certified since March 2025.
+Edgeberry is <b>Open Source Hardware</b> certified since March 2025.
 <br clear="left"/>
 <a href="https://www.elecrow.com/catalogsearch/result/?q=edgeberry" target="_blank" >
-    <img src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png" align="left" width="22%"/>
+    <img src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png" align="left" width="20%"/>
 </a>
-
-Edgeberry's hardware components are produced by **Elecrow**, Edgeberry's OEM manufacturer since December 2024.
+<b>Elecrow</b> is Edgeberry's OEM manufacturer since December 2024.
 <br clear="left"/>
 <hr/>
 
