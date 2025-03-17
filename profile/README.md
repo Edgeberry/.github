@@ -49,7 +49,7 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
     <img src="https://www.elecrow.com/media/logo/stores/1/ELECROW_LOGO.png" align="left" width="20%"/>
 </a>
 <p>
-    <b>Elecrow</b> is Edgeberry's OEM manufacturer since December 2024.
+    <b>Elecrow</b> is Edgeberry's OEM since December 2024.
 </p>
 <br clear="left"/>
 <hr/>
