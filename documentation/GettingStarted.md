@@ -1,6 +1,6 @@
 # Getting started
 ## Device Assembly
-After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172), you're ready to assemble your device.
+After obtaining the Edgeberry Hardware, selecting or designing a suitable Hardware Cartridge, and [3D printing the Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172), you're ready to assemble your device!
 
 <p float="left">
   <img src="../images/Edgeberry_assembly_1.png" width="25%" />
@@ -16,7 +16,7 @@ After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure
 </p>
 
 > [!NOTE]  
-> All information about the Edgeberry hardware is in [the repository](https://github.com/Edgeberry/Edgeberry-Baseboard/tree/main). If you're looking for something, certainly check the documentation folder.
+> All information about the Edgeberry hardware is in [this repository](https://github.com/Edgeberry/Edgeberry-Baseboard/tree/main).
 
 ## Raspberry Pi SD-card
 We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the `Raspberry Pi Imager` tool for writing the image to the SD-card.
