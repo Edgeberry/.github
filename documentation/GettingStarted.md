@@ -41,7 +41,7 @@ ssh <your username>@<your device IP address>
 ```
 <hr/>
 
-# Edgeberry stuff
+# Edgeberry Device Software
 
 ## Installing the Edgeberry Software
 Now we have SSH access to our device, we can download and install the Edgeberry Device Software.
@@ -50,7 +50,7 @@ wget -O install.sh https://github.com/Edgeberry/Edgeberry/releases/latest/downlo
 chmod +x ./install.sh;
 sudo ./install.sh;
 ```
-Note: several parts of the installation process may take a while with little to no feedback, just allow the installer to do its thing.
+Note: several parts of the installation process may take a while with little to no feedback, just make sure you have a stable internet connection, and allow the installer to do its thing.
 
 ## Linking the device to your Edgeberry Dashboard account
 Create an account and log in on the Edgeberry online device management dashboard
@@ -63,7 +63,7 @@ edgeberry --hardware-id
 ```
 Make sure you have physical access to the button on the front of the device. In the next step you will be asked to press the button on your device to link this to your account. When this was successful, your device is now linked to your online device management dashboard.
 
-# Application development
+# Device Application development
 
 ## Directly on the device
 
