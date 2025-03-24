@@ -55,7 +55,8 @@ wget -O install.sh https://github.com/Edgeberry/Edgeberry/releases/latest/downlo
 chmod +x ./install.sh;
 sudo ./install.sh;
 ```
-Note: several parts of the installation process may take a while with little to no feedback, just make sure you have a stable internet connection, and allow the installer to do its thing.
+>[!WARNING]
+>Several parts of the installation process may take a while with little to no feedback, just make sure you have a stable internet connection, and allow the installer to do its thing.
 
 ## Linking the device to your Edgeberry Dashboard account
 Create an account and log in on the Edgeberry online device management dashboard
