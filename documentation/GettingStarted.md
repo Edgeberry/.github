@@ -42,6 +42,8 @@ When your device has booted, you can now access your Edgeberry device by opening
 ```
 ssh <your username>@<your device IP address>
 ```
+> [!TIP]
+> You can find your device on your local network using tools like [Nmap](https://nmap.org/), or by checking the client list in your router.
 <hr/>
 
 # Edgeberry Device Software
