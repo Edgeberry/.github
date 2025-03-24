@@ -15,6 +15,9 @@ After obtaining the Edgeberry Hardware, and [3D printing the Edgeberry Enclosure
   <img src="../images/Edgeberry_assembly_6.png" width="25%" />
 </p>
 
+> [!NOTE]  
+> All information about the Edgeberry hardware is in [the repository](https://github.com/Edgeberry/Edgeberry-Baseboard/tree/main). If you're looking for something, certainly check the documentation folder.
+
 ## Raspberry Pi SD-card
 We'll run Raspberry Pi's 'lite' version of Linux/Debian on the device. We'll download the image from Raspberry Pi's website, and use the `Raspberry Pi Imager` tool for writing the image to the SD-card.
 
