@@ -58,6 +58,10 @@ sudo ./install.sh;
 >[!WARNING]
 >Several parts of the installation process may take a while with little to no feedback, just make sure you have a stable internet connection, and allow the installer to do its thing.
 
+When the installation process is done, you should be able to blink the LED and beep the buzzer by executing this command:
+```
+edgeberry --identify
+```
 ## Linking the device to your Edgeberry Dashboard account
 Create an account and log in on the Edgeberry online device management dashboard
 ```
