@@ -1,4 +1,5 @@
-# Getting started
+![Edgeberry Banner](../images/Edgeberry_Banner_GettingStarted.png)
+
 ## Device Assembly
 After obtaining the Edgeberry Hardware, selecting or designing a suitable Hardware Cartridge, and [3D printing the Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172), you're ready to assemble your device!
 
