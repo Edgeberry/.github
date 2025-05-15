@@ -6,10 +6,6 @@ After obtaining the Edgeberry Hardware, selecting or designing a suitable Hardwa
   <img src="../images/assembly_1.jpg" width="16.6%" />
   <img src="../images/assembly_2.jpg" width="16.6%" />
   <img src="../images/assembly_3.jpg" width="16.6%" />
-</p>
-<p float="left">
-</p>
-<p float="left">
   <img src="../images/assembly_4.jpg" width="16.6%" />
   <img src="../images/assembly_5.jpg" width="16.6%" />
   <img src="../images/assembly_6.jpg" width="16.6%" />
