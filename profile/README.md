@@ -32,6 +32,9 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
     <a href="https://reddit.com/r/Edgeberry">Edgeberry Community</a>
 </p>
 
+<iframe src="https://github.com/sponsors/Edgeberry/button" title="Sponsor Edgeberry" height="32" width="114" style="border: 0; border-radius: 6px;">
+</iframe>
+
 <h2>Certifications & Partners</h2>
 <a href="https://www.raspberrypi.com/for-industry/powered-by/product-catalogue/?category=SBCs" target="_blank" >
     <img src="https://github.com/Edgeberry/.github/blob/main/brand/poweredbypi.png?raw=true" align="left" width="20%"/>
