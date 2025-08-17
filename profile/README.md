@@ -32,7 +32,7 @@ Edgeberry is fully **open-source**, leveraging open platforms like Raspberry Pi 
     <a href="https://reddit.com/r/Edgeberry">Edgeberry Community</a>
 </p>
 
-The Edgeberry project is fully open source, and no features are locked behind a paywall. We fully rely on your donations. To sponsor the project, donate through [GitHub Sponsors](https://github.com/sponsors/Edgeberry)!
+The Edgeberry project is fully open source and free to use with no features are locked behind a paywall. We fully rely on your donations to keep the project alive. To sponsor the project, donate through [GitHub Sponsors](https://github.com/sponsors/Edgeberry)!
 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/Edgeberry)
 
