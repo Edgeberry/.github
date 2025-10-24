@@ -63,7 +63,7 @@ edgeberry --identify
 The Edgeberry Device Hub is the bridge for connecting devices to cloud-based applications. It is a self-hostable service, whether you're running a webserver, or prefer to keep everything on premise.
 
 > [!NOTE]
-> **Edgeberry Device Hub** is in active development. Follow the progress in the [this repository](https://github.com/Edgeberry/Edgeberry-Device-Hub
+> **Edgeberry Device Hub** is in active development. Follow the progress in [the repository](https://github.com/Edgeberry/Edgeberry-Device-Hub).
 
 # Device Application development
 
