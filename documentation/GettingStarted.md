@@ -59,16 +59,11 @@ When the installation process is done, you should be able to blink the LED and b
 ```
 edgeberry --identify
 ```
-## Linking the device to your Edgeberry Dashboard account
-Create an account and log in on the Edgeberry online device management dashboard
-```
-https://dashboard.edgeberry.io
-```
-On the devices page, click the "add device" button. In the next step your device's serial number will be asked. Get your device's serial number by executing following command on the device.
-```
-edgeberry --hardware-id
-```
-Make sure you have physical access to the button on the front of the device. In the next step you will be asked to press the button on your device to link this to your account. When this was successful, your device is now linked to your online device management dashboard.
+## Linking the device to your Edgeberry Device Hub
+The Edgeberry Device Hub is the bridge for connecting devices to cloud-based applications. It is a self-hostable service, whether you're running a webserver, or prefer to keep everything on premise.
+
+> [!NOTE]
+> **Edgeberry Device Hub** is in active development. Follow the progress in the [this repository](https://github.com/Edgeberry/Edgeberry-Device-Hub
 
 # Device Application development
 
